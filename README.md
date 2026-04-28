@@ -38,11 +38,13 @@
 
 ## 📸 Screenshots
 
-| AI Command Center | Live Bed Heatmap | Mobile Patient App |
-|:---:|:---:|:---:|
-| ![Command Center — replace this URL](https://via.placeholder.com/380x220/0a1628/4ea6f5?text=Paste+your+screenshot+URL+here) | ![Bed Heatmap — replace this URL](https://via.placeholder.com/380x220/0a1628/4ea6f5?text=Paste+your+screenshot+URL+here) | ![Mobile App — replace this URL](https://via.placeholder.com/380x220/0a1628/4ea6f5?text=Paste+your+screenshot+URL+here) |
+| AI Command Center | Live Bed Heatmap |
+|:---:|:---:|
+| ![Command Center](https://github.com/user-attachments/assets/03ec7fb0-87e0-41fb-ba63-b12770656e07) | ![Bed Heatmap](https://github.com/user-attachments/assets/2f45dc6a-23c5-4b9c-9de8-28103d923d0e) |
 
-> **To replace the placeholders above:** Follow the steps in the comment block above this section.
+| Mobile App | Google Maps Integration |
+|:---:|:---:|
+| ![Mobile App](https://github.com/user-attachments/assets/7427c768-e8d8-4de1-9caa-aaa37f3e875b) | ![Maps View](https://github.com/user-attachments/assets/9d69f988-c9e3-45af-86e0-19c6c1b50bbc) |
 
 ---
 
