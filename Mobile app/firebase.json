@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "aarogyamitra-app",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/app.html"
+      }
+    ]
+  }
+}
