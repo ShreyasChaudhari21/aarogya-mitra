@@ -315,9 +315,12 @@ flutter run
 
 **Team Name:** CureX
 
-| Role | Name |
+| Member | Name |
 |---|---|
-| Team Leader | Jainesh Mugdiya |
+| 1 | Shreyas Chaudhari |
+| 2 | Jainesh Mugdiya   |
+| 3 | Aditya karodiwal  |
+| 4 | Khushi Borde      |
 
 *Built for Google Solution Challenge 2026*
 
