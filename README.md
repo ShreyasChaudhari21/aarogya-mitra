@@ -5,8 +5,7 @@
 
 *"Your Health Friend"*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Firebase_Hosting-blue?style=for-the-badge)](YOUR_DEPLOYED_LINK_HERE)
-[![Demo Video](https://img.shields.io/badge/▶_Demo_Video-Watch_Now-red?style=for-the-badge)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+
 [![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![React](https://img.shields.io/badge/Web-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
